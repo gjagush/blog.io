@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://gjagush.github.io/blog.io",
+    "hubpress": "http://texanmason.com/blog.io",
+    "theme": "//gjagush.github.io/blog.io/themes/casper",
+    "images": "https://gjagush.github.io/blog.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
