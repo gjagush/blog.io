@@ -1,0 +1,8 @@
+= Test Post
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2016-09-19
+:hp-tags: Masonry, Freemasonry
+:hp-alt-title: Test Post
+
+Testing, testing.
