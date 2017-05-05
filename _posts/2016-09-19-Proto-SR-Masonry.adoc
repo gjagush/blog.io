@@ -6,7 +6,7 @@
 :hp-alt-title: Proto-SR Masonry
 
 Original flowchart by Brother Timothy Edwards:
-img::http://texanmason.com/posts/20160919-img1.png[Original FlowChart]
+image::http://texanmason.com/posts/20160919-img1.png[Original FlowChart]
 
 Cleaned-up version that I made:
-img::http://texanmason.com/posts/20160919-img2.jpg[New FlowChart]
+image::http://texanmason.com/posts/20160919-img2.jpg[New FlowChart]
