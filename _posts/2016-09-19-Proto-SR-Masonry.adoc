@@ -1,0 +1,12 @@
+= Proto-Scottish Rite Masonry: Complicated flowcharts - Scottish Rite edition
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2016-09-19
+:hp-tags: Masonry, Freemasonry
+:hp-alt-title: Proto-SR Masonry
+
+Original flowchart by Brother Timothy Edwards:
+image::http://texanmason.com/posts/20160919-img1.png[Original FlowChart]
+
+Cleaned-up version that I made:
+image::http://texanmason.com/posts/20160919-img2.jpg[New FlowChart]
