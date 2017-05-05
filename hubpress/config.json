@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "roon"
+    "name": "saga"
   },
   "urls": {
     "site": "https://gjagush.github.io/blog.io",
     "hubpress": "http://texanmason.com/blog.io",
-    "theme": "//gjagush.github.io/blog.io/themes/ichi",
+    "theme": "//gjagush.github.io/blog.io/themes/roon",
     "images": "https://gjagush.github.io/blog.io/images"
   },
   "initialisationConfigComponent": {
