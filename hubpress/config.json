@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "the-shell"
+    "name": "uno"
   },
   "urls": {
     "site": "https://gjagush.github.io/blog.io",
     "hubpress": "http://texanmason.com/blog.io",
-    "theme": "//gjagush.github.io/blog.io/themes/saga",
+    "theme": "//gjagush.github.io/blog.io/themes/the-shell",
     "images": "https://gjagush.github.io/blog.io/images"
   },
   "initialisationConfigComponent": {
