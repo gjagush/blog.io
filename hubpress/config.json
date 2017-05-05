@@ -5,12 +5,12 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "casper"
+    "name": "ghostium"
   },
   "urls": {
     "site": "https://gjagush.github.io/blog.io",
     "hubpress": "http://texanmason.com/blog.io",
-    "theme": "//gjagush.github.io/blog.io/themes/casper",
+    "theme": "//gjagush.github.io/blog.io/themes/ghostium",
     "images": "https://gjagush.github.io/blog.io/images"
   },
   "initialisationConfigComponent": {
